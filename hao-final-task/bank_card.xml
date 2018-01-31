@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<owner>Mr_van</owner>
+	<location>Minsk</location>
+	<emails>van@gmail.com</emails>
+	<cardsOfOwner>
+		<cards>
+			<id>0</id>
+			<name>BSB Bank</name>
+			<number>2232 3265 2356 9656</number>
+			<year>2019-09-25</year>
+			<remainder>2000</remainder>
+			<available>true</available>
+		</cards>
+		<cards>
+			<id>1</id>
+			<name>Moskva_Minsk Bank</name>
+			<number>2212 3265 2356 9126</number>
+			<year>2021-09-01</year>
+			<remainder>500</remainder>
+			<available>true</available>
+		</cards>
+		<cards>
+			<id>2</id>
+			<name>Belarus Bank</name>
+			<number>2231 3266 2356 9655</number>
+			<year>2019-07-25</year>
+			<remainder>1000</remainder>
+			<available>true</available>
+		</cards>
+		<cards>
+			<id>3</id>
+			<name>Alpha Bank</name>
+			<number>2232 3265 6565 5696</number>
+			<year>2020-06-01</year>
+			<remainder>100</remainder>
+			<available>true</available>
+		</cards>
+		<cards>
+			<id>4</id>
+			<name>BPS Sber Bank</name>
+			<number>2299 3565 2565 9776</number>
+			<year>2022-01-23</year>
+			<remainder>10</remainder>
+			<available>false</available>
+		</cards>
+		<cards>
+			<id>5</id>
+			<name>Idea Bank</name>
+			<number>2569 5662 2565 5697</number>
+			<year>2019-01-25</year>
+			<remainder>50</remainder>
+			<available>true</available>
+		</cards>
+	</cardsOfOwner>
+</root>

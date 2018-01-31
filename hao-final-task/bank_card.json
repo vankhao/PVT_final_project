@@ -1,0 +1,57 @@
+{
+ "owner": "Mr_van",
+ "location": "Minsk",        
+ "emails": [
+       "vamkhao@gmail.com"
+  ],
+ "cardsOfOwner": [
+     {
+       "id": 0,
+       "name": "BSB Bank",
+       "number":"2232 3265 2356 9656",
+       "year": "2019-09-25",
+       "remainder": "2000",
+       "available": true
+     },
+     {
+       "id": 1,
+       "name": "Moskva_Minsk Bank",
+       "number":"2212 3265 2356 9126",
+       "year": "2021-09-01",
+       "remainder": "500",
+       "available": true
+     },
+     {
+       "id": 2,
+       "name": "Belarus Bank",
+       "number":"2231 3266 2356 9655",
+       "year": "2019-07-25",
+       "remainder": "1000",
+       "available": true
+     },
+     {
+       "id": 3,
+       "name": "Alpha Bank",
+       "number":"2232 3265 6565 5696",
+       "year": "2020-06-01",
+       "remainder": "100",
+       "available": true
+     },
+     {
+       "id": 4,
+       "name": "BPS Sber Bank",
+       "number":"2299 3565 2565 9776",
+       "year": "2016-01-23",
+       "remainder": "10",
+       "available": false
+     },
+     {
+       "id": 5,
+       "name": "Idea Bank",
+       "number":"2569 5662 2565 5697",
+       "year": "2019-01-25",
+       "remainder": "50",
+       "available": true
+     }
+   ]
+}
